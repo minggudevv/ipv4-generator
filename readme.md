@@ -1,9 +1,9 @@
 ### IPv4 Address Generator
 
-![GitHub repo size](https://img.shields.io/github/repo-size/minggu-devv/ipv4-generator?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/minggu-devv/ipv4-generator?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/minggu-devv/ipv4-generator?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/minggu-devv/ipv4-generator?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/minggudevv/ipv4-generator?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/minggudevv/ipv4-generator?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/minggudevv/ipv4-generator?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/minggudevv/ipv4-generator?style=flat-square)
 
 The IPv4 Address Generator is a simple tool that allows users to generate random IPv4 addresses in the desired quantity. This tool is particularly useful for network testing, software development, or any scenario that requires randomly generated IPv4 addresses.
 
